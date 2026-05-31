@@ -1,7 +1,7 @@
 <h1 align="center">💀 Jim Mack — <code>jtmack6</code> 💀</h1>
 
 <p align="center">
-  <em>"IWEFIOU" — I Will Eventually Figure It Out — with FreeBSD.</em>
+  <em>Heavy Metal Solutions</em>
 </p>
 
 <p align="center">
