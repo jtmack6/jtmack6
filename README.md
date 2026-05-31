@@ -13,18 +13,18 @@
 
 ### whoami
 
-Site Reliability / Infrastructure engineer. I spend my time in jails, ZFS pools,
-Kubernetes clusters, and Eurorack patch cables — usually with something loud and
-distorted playing in the background.
+Site Reliability / Infrastructure engineer. I spend my time in jails, pods
+k8s clusters and whatever monitoring infrastructure is going to do the job. 
+My desk is shared with eurorack modules and other synth, sound projects I am working on. 
 
+### Homelab and interests
 - 🧩 **Systems:** FreeBSD (jails, ZFS, pf, poudriere, bhyve), Linux (Arch, Gentoo, Armbian), macOS
 - ☸️ **Cloud-native:** k3s · Flux · Helm · GitOps · observability (Grafana / Tempo / Pyroscope / Alloy)
 - 💻 **Code:** Go (mostly stdlib) · Python (via `uv`)
 - 🐚 **Shell:** fish, everywhere
 - 🎛️ **Off-keyboard:** modular synthesis · VCV Rack · Max/MSP · turntables & vinyl · 3D printing
 - 🎸 **Soundtrack:** black metal · grindcore · viking metal
-- 💬 **IRC:** `nordaxe` on EFnet since the ircII era
-
+- 💬 **IRC:** `nordaxe` on EFnet back when SLIP/PPP was all you had
 ### currently tinkering with
 
 - Local AI image-to-3D mesh generation (Hunyuan3D-2 via ComfyUI)
