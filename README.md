@@ -1,4 +1,4 @@
-<h1 align="center">:anchor: Jim Mack — <code>jtmack6</code> :anchor:</h1>
+<h1 align="center"> 🏁 Jim Mack — <code>jtmack6</code> 🏁 </h1>
 
 <p align="center">
   <em>Heavy Metal Solutions</em>
